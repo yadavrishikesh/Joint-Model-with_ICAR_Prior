@@ -1,6 +1,6 @@
 rm(list = ls())
 ## SET THE WORKING DIRECTORY
-setwd("/Users/yadavr/Dropbox (KAUST)/LandslidesModeling/Results_For_Manuscript_new/Simulation/RcodeToSubmit_JASA")
+setwd(this.path::here())
 ######################################################################################
 ##########  loading the data and source code ##############
 ######################################################################################
